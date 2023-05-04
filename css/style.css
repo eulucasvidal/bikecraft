@@ -14,7 +14,20 @@
 @import './home/tecnologia.css';
 @import './home/parceiros.css';
 @import './home/depoimento.css';
-@import './home/seguros.css';
-/* Bicicletas */
 
+/* Bicicletas */
 @import './bicicletas/bicicletas-lista.css';
+@import './bicicletas/bicicletas.css';
+
+/* Bicicletas */
+@import './bicicleta/bicicleta.css';
+@import './bicicleta/seguro.css';
+
+
+/* Seguros */
+@import './seguros/seguros.css';
+@import './seguros/vantagens.css';
+@import './seguros/perguntas.css';
+
+/* Termos */
+@import './termos/termos.css';
